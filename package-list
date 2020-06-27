@@ -6,4 +6,8 @@ org.block.panel.block.java.operation
 org.block.panel.block.java.value
 org.block.panel.context
 org.block.panel.section
+org.block.serialization
+org.block.serializtion
+org.block.serializtion.json
+org.block.serializtion.parse
 org.block.util
