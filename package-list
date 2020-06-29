@@ -1,6 +1,7 @@
 org.block
 org.block.panel
 org.block.panel.block
+org.block.panel.block.assists
 org.block.panel.block.event
 org.block.panel.block.java.operation
 org.block.panel.block.java.value
