@@ -26,8 +26,7 @@ org.block.project.panel
 org.block.project.panel.inproject
 org.block.project.section
 org.block.serialization
-org.block.serializtion
-org.block.serializtion.json
-org.block.serializtion.parse
+org.block.serialization.json
+org.block.serialization.parse
 org.block.util
 org.block.util.functions
